@@ -6,9 +6,11 @@ Modify the `.ino`-file to match your WiFi SSID and password. Adjust the server U
 ### Security considerations
 Please note that the ESP-firmware only supports TLS 1.1 with RSA Key-Exchange. Setting your server up to accept this type of connection may make it vulnerable to downgrading attacks. If in doubt use a proxy like a Raspberry Pi to receive the weakly encrypted messages from your buttons and establish a highly secure connection to your server.
 
-https://github.com/enishoca/ESP8266-Dash/blob/master/Screen%20Shot%202018-02-07%20at%208.26.48%20PM.png
 
+Swiss accent guy's circuit
+(https://github.com/enishoca/ESP8266-Dash/blob/master/Screen%20Shot%202018-02-07%20at%208.26.48%20PM.png)
+![GitHub Logo](/images/logo.png)
 Swiss accent guy's video
-https://www.youtube.com/watch?v=6JD2RMDM88Y
+(https://www.youtube.com/watch?v=6JD2RMDM88Y)
 
-Originaal
+Original Circuit

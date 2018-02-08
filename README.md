@@ -8,7 +8,7 @@ Please note that the ESP-firmware only supports TLS 1.1 with RSA Key-Exchange. S
 
 
 Swiss accent guy's circuit
-(https://github.com/enishoca/ESP8266-Dash/blob/master/Screen%20Shot%202018-02-07%20at%208.26.48%20PM.png)
+!(https://github.com/enishoca/ESP8266-Dash/blob/master/Screen%20Shot%202018-02-07%20at%208.26.48%20PM.png)
 ![GitHub Logo](/images/logo.png)
 Swiss accent guy's video
 (https://www.youtube.com/watch?v=6JD2RMDM88Y)
